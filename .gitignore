@@ -1,0 +1,34 @@
+__pycache__/
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE and code editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore compiled or binary files
+*.o
+*.a
+*.class
+*.dll
+*.exe
+*.pyc
+*.pyo
+
+# Ignore virtual environment folders
+venv/
+env/
+.venv/
+
+# Ignore package and distribution files
+dist/
+build/
+*.egg-info/
+*.egg/
+*.whl/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
