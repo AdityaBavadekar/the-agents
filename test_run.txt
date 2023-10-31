@@ -1,0 +1,36 @@
+The Agents [v 1.0.0] 
+------------------------ Assistant -------------------------
+STATE: Initializing Agent.
+Fetched 3 Models
+
+Hello! I'm PaLM 2.
+
++---------------+
+| Question: Hi! |
++---------------+
+
+PaLM 2 [Answer]:
++----------------------------------------------------------+
+| Hi! How can I help you today?                            |
++----------------------------------------------------------+
+
+
+######## Ask PaLM 2 ########
+How can I help?
+> +-------------------------------+
+| Question: Hello! How are you? |
++-------------------------------+
+
+PaLM 2 [Answer]:
++----------------------------------------------------------+
+| I am doing well, thank you for asking. I am excited to   |
+| be able to help people with their tasks and to learn     |
+| more about the world. How are you doing today?           |
++----------------------------------------------------------+
+
+
+######## Ask PaLM 2 ########
+How can I help?
+> +------------+
+| Question:  |
++------------+

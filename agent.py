@@ -78,7 +78,7 @@ class Mediator:
 
     def ask_text(self, prompt):
         self.validate(prompt)
-        self.history.append(UserMessage(content))
+        self.history.append(UserMessage(prompt))
         completion = palm.generate_text(
             model=self.model,
             prompt=prompt,
