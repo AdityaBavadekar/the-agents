@@ -1,5 +1,3 @@
-Auto generated on 31-10-2023-13-03
-
 # the-agents
 ![](screenshots/Capture.PNG)
 ...
