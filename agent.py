@@ -7,6 +7,7 @@ import json
 import google.generativeai as palm
 
 MODEL_ERROR_MESSAGE = """Something went wrong."""
+# Replace with your own. [This one is deleted from console]
 GOOGLE_PALM_API_KEY = "AIzaSyBrwy6q71vjEuADhoiZqriXDmnyMuSR6oU"
 palm.configure(api_key=GOOGLE_PALM_API_KEY)
 
